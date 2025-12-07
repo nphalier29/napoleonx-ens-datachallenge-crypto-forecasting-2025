@@ -1,8 +1,8 @@
-# napoleonx-ens-datachallenge-crypto-forecasting-2025
+# napoleonx-ens-datachallenge-crypto-forecasting-2022
 
 ## Contexte du projet
 
-Ce projet a été réalisé dans le cadre du **Challenge Data ENS**, proposé par l’entreprise **Napoleon X**.
+Ce projet a été réalisé dans le cadre du **Challenge Data ENS**, proposé par l’entreprise **Napoleon X** en 2022.
 
 ## Objectif 
 
